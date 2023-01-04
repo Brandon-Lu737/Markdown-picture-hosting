@@ -1,0 +1,8 @@
+[System]
+Helper Version = 16.5
+VM Id = {868afd9f-a9aa-4724-9ac1-25ac06d5cae8}
+VM Name = Windows 11
+VM OS Type = 8.2067
+APP Path = Microsoft.ZuneMusic_8wekyb3d8bbwe!Microsoft.ZuneMusic
+Protocols = ms-playto-audio,mswindowsmusic
+File Extensions = 3g2,3gp,3gp2,3gpp,aac,ac3,adt,adts,amr,asf,avi,cda,divx,ec3,flac,m1v,m2t,m2ts,m2v,m3u,m3u8,m4a,m4r,m4v,mk3d,mka,mkv,mod,mov,mp2,mp2v,mp3,mp4,mp4v,mpa,mpe,mpeg,mpg,mpg4,mpv2,mts,oga,ogg,ogm,ogv,ogx,opus,tod,ts,tts,wav,webm,wm,wma,wmv,wpl,xvid,zpl
